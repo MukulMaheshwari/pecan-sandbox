@@ -8,7 +8,7 @@ on:
        - v1
        - v1*
 
-# render book
+# rendering book
 name: renderbook
 
 jobs:
